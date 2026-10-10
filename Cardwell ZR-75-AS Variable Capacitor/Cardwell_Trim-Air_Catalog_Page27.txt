@@ -1,0 +1,212 @@
+CARDWELL Variable Capacitors
+
+4 , 5.
+WHA
+WO)
+
+.;
+
+Zfq19Tmitill/m
+
+C
+
+D
+
+(A) Midway Featherweight Capacitors
+Straight -line -capacity type. Light in weight, compact (panel space only 3" x 21"), adapted to re-
+ceivers and 25 -watt, or lower, CW transmitters; also portable equipment. Extremely rugged and
+rigid. Air gap between plates is .031". Shaft diameter j". Mycalex insulation.
+
+SINGLE CONDENSERS
+
+Cat.
+No.
+18-801
+18-802
+18-803
+18-804
+18-805
+18-806
+18-807
+18-808
+18-809
+*.050" gap.
+
+Type
+MR -25 -BS
+MR -50 -BS
+MR -70 -BS
+MR -105 -BS
+MR -150 -BS
+MR -260 -BS
+MR -365 -BS
+MO -150 -BS
+MO -165 -BM
+
+Max.
+Cap.
+25
+50
+70
+105
+150
+260
+365
+150
+165
+
+Min. Net
+Price
+Cap.
+$2.38
+5
+3.00
+6
+3.10
+7
+3.22
+8
+3.56
+10
+3.85
+11
+4.20
+14
+Spec.
+14
+2.94
+15
+
+Type
+
+DOUBLE CONDENSERS
+Max.
+Cap.
+Each
+25
+50
+70
+100
+150
+260
+180
+
+Cat.
+No.
+18-810 MR -25 -BD
+18-811
+M11,50 -11D
+18-812 MR -70 -BD
+18-813
+MR -100 -BD
+18-814 MR -150 -BD
+18-815 MR -260 -BD
+18-816
+MO -180 -BD*
+
+Min.
+Cap.
+Each
+5
+6
+7
+8
+9
+11
+15
+
+Net
+Price
+$3.85
+4.11
+4.32
+4.50
+4.65
+5.25
+7.07
+
+( B ) Featherweight Transmitting Capacitors
+A very popular condenser in the amateur experimental and commercial fields. Air gap of .070" suits
+it to use in CW transmitters up to 100 watts power or phone transmitters up to 50 watts carrier with
+100% modulation. Mycalex insulation.
+
+SINGLE CONDENSERS
+
+Max. Min.
+Cap. Cap.
+
+Type
+
+Cat.
+No.
+18-817 MT -20 -GS
+18-818 MT -35 -GS
+18-819 MT -50 -OS
+18-820 MT -70 -GS
+18-821 MT -100 -GS
+18-822 MT -150 -GS
+18-823 MG -35 -NS
+
+20
+35
+50
+70
+100
+150
+35
+
+5
+6
+8
+10
+12
+16
+12
+
+DOUBLE CONDENSERS
+
+Type
+
+Cat.
+No.
+18-824 MT-20-GD
+18-825 MT-35-GD
+18-826 MT-50-GD
+18-827 MT-70-GD
+18-828 MT-100-GD
+
+Max. Min.
+Cap. Cap. Net
+Each Each
+7
+7
+9
+10
+13
+
+Price
+$4.90
+5.51
+5.61
+6.18
+7.05
+
+20
+35
+50
+70
+100
+
+Net
+Price
+$2.88
+3.10
+3.45
+3.96
+4.32
+5.31
+5.31
+
+(C) Standard Transmitting Capacitors
+Heavy rotor and stator plates, with rounded edges, are buffed and polished insuring minimum corona
+losses and maximum peak breakdown voltage. A self-cleaning phosphor bronze c

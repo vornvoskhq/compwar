@@ -1,0 +1,9 @@
+name: "Cardwell ZR-75-AS Variable Capacitor"
+manufacturer: "Cardwell"
+part_number: "Capacitor"
+characteristics:
+  - "Maximum Capacitance: 75 pF"
+  - "Minimum Capacitance: 3.0 pF"
+  - "Capacitance: 75 pF"
+datasheet: "Cardwell_Trim-Air_Catalog_Page27.pdf"
+image: "IMG_20261009_152442 (10).jpg"

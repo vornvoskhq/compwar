@@ -1,0 +1,55 @@
+E.F. Johnson KS-16471L1 Air Variable Capacitor
+E.F. Johnson Company / Western Electric Kearny Specification (KS-16471 L1)
+
+Product Overview
+
+The E.F. Johnson KS-16471L1 is a telecommunications and military-grade air variable capacitor manufactured for Western Electric
+under Kearny Specification KS-16471. Utilizing Johnson Type L construction, it features dual steatite ceramic end plates joined by
+rigid metal support rods, providing exceptional mechanical rigidity and thermal stability.
+
+Technical Specifications
+
+Part Number
+
+Manufacturer
+
+KS-16471L1 / Johnson Type L (167 Series)
+
+E.F. Johnson Company (Waseca, Minnesota)
+
+Specification Standard
+
+Western Electric Kearny Specification (KS-16471 List 1)
+
+Capacitance Range
+
+Peak Voltage Rating
+
+Dielectric & Frame
+
+Plate Material
+
+Approx. 5.2 pF min to 75 pF max
+
+1,500 Volts Peak RMS
+
+Grade L-4 or better steatite ceramic end plates with tie-rod construction
+
+Heavy-gauge silver/nickel plated brass/aluminum soldered to support rods
+
+Key Features & Construction
+
+(cid:127) Heavy-duty steatite ceramic front and rear end plates for bilateral mechanical support
+(cid:127) High voltage withstand capability (1.5 kV peak) for transmitter and carrier applications
+(cid:127) Precision soldered stator plate assemblies for maximum electrical stability
+(cid:127) Beryllium copper / phosphor bronze wiping rotor ground contact for minimal contact resistance
+(cid:127) Manufactured to rigorous Western Electric KS-spec reliability standards
+
+Mechanical & Mounting Details
+
+(cid:127) Mounting: Threaded bushing for single-hole panel mounting, with chassis tie-points
+(cid:127) Shaft: 1/4 inch precision brass/steel rotor shaft with slotted end
+(cid:127) Dimensions: approx. 1.5 x 1.5 x 3.5 inches overall length
+(cid:127) Terminal: Heavy silver-plated solder lugs on stator support rods
+
+

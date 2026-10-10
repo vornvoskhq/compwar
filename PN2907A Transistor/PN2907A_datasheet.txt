@@ -1,0 +1,161 @@
+https://www.phoenixcontact.com/gb/products/2814537
+
+Signal conditioner - MCR-C-U-I- 4-DC - 2814537
+Please be informed that the data shown in this PDF Document is generated from our Online Catalog. Please find the complete data in the user's
+documentation. Our General Terms of Use for Downloads are valid
+(http://phoenixcontact.com/download)
+
+MCR 3-way signal conditioner, for electrical isolation of analog signals, input signal: 0 V ... 10 V, output signal:
+4 mA ... 20 mA. Replacement part: 2902029 MINI MCR-2-U-I4.
+
+The figure shows version MCR-C-I-
+I-00-DC
+
+Your advantages
+
+ Processing of standard signals
+
+ 3-way isolation
+
+ Fixed setting of input and output signals
+
+Key Commercial Data
+
+Packing unit
+
+GTIN
+
+GTIN
+
+Weight per Piece (excluding packing)
+
+Custom tariff number
+
+Country of origin
+
+Technical data
+
+Note
+
+Utilization restriction
+
+Dimensions
+
+Width
+
+Height
+
+Depth
+
+Ambient conditions
+
+5 pc
+
+4017918156220
+
+74.780 g
+
+85437090
+
+Germany
+
+EMC: class A product, see manufacturer's declaration in the download
+area
+
+12.5 mm
+
+99 mm
+
+114.5 mm
+
+Ambient temperature (operation)
+
+-25 °C ... 60 °C
+
+12/30/2019   Page 1 / 5
+
+https://www.phoenixcontact.com/gb/products/2814537
+
+Signal conditioner - MCR-C-U-I- 4-DC - 2814537
+
+Technical data
+
+Input data
+
+Description of the input
+
+Number of inputs
+
+Configurable/programmable
+
+Voltage input signal
+
+max. input voltage
+
+Input resistance of voltage input
+
+Output data
+
+Output name
+
+Number of outputs
+
+Configurable/programmable
+
+Current output signal
+
+Max. output current
+
+Load/output load current output
+
+Voltage input
+
+1
+
+no
+
+0 V ... 10 V
+
+30 V
+
+100 kΩ
+
+Current output
+
+1
+
+no
+
+4 mA ... 20 mA
+
+30 mA
+
+≤ 500 Ω
+
+Linear transmission range (in reference to the output range end value)
+
+-5 % ... 105 %
+
+Power supply
+
+Supply voltage range
+
+Typical current consumption
+
+General
+
+No. of channels
+
+Maximum transmission error
+
+Transmission error, typical
+
+Maximum temperature coefficient
+
+Limit frequency (3 dB)
+
+Step response (10-90%)
+
+Protective circuit
+
+Tes

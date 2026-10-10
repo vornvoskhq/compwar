@@ -1,0 +1,11 @@
+name: "Johnson KS-16471L1 Variable Capacitor"
+manufacturer: "Johnson"
+part_number: "Capacitor"
+characteristics:
+  - "Spec unknown"
+  - "Spec unknown"
+  - "Spec unknown"
+  - "Spec unknown"
+  - "Spec unknown"
+datasheet: "Johnson_Miniature_Capacitors_Catalog_Page73.pdf"
+image: "header.jpg"

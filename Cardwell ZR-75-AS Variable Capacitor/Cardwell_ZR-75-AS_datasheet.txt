@@ -1,0 +1,59 @@
+Cardwell ZR-75-AS Trim-Air Variable Capacitor
+The Allen D. Cardwell Manufacturing Corporation / Cardwell Condenser Corp
+
+Product Overview
+
+The Cardwell ZR-75-AS is a precision Trim-Air series variable capacitor engineered for high-frequency VHF/UHF oscillator, receiver,
+and transmitter trimmer applications. Built with a high-grade steatite end plate, it minimizes dielectric absorption and dielectric
+heating while maintaining mechanical stability under vibration.
+
+Technical Specifications
+
+Model Number
+
+Series
+
+ZR-75-AS
+
+Cardwell Trim-Air (ZR Series)
+
+Maximum Capacitance
+
+75 pF (mmf)
+
+Minimum Capacitance
+
+3.0 pF (mmf) nominal
+
+Nominal Air Gap
+
+0.030 inches
+
+Voltage Breakdown Rating
+
+1,000 Volts Peak (Test Rating)
+
+Insulation Material
+
+Plates Material
+
+High-frequency glazed Steatite / Isolantite ceramic end plate
+
+Precision stamped aluminum with rounded polished edges
+
+Key Features & Construction
+
+(cid:127) Isolantite / Steatite ceramic end plate ensures low RF loss at VHF/UHF frequencies
+(cid:127) Slotted rotor shaft permits screwdriver alignment adjustment with panel locknut
+(cid:127) Integral threaded bushing allows single-hole panel or chassis mounting
+(cid:127) Phosphor bronze wiper contact ensures consistent low-noise rotor grounding
+(cid:127) High electrical Q factor suitable for exciter, VFO, and tank circuits
+
+Mechanical & Mounting Details
+
+(cid:127) Mounting: Single-hole panel mounting via 1/4-32 or 5/16-32 threaded bushing and hex locknut
+(cid:127) Rotor Shaft: 1/4 inch diameter shaft with slotted end for screwdriver adjustment
+(cid:127) Plate count: Multi-plate semicircular straight-line-capacity rotor/stator assembly
+(cid:127) Base dimensions: approx. 1.25 x 1.50 inches ceramic frame
+
+

@@ -1,0 +1,55 @@
+Dual-Gang 289-42 Variable Tuning Capacitor
+Seeburg / TRW RETMA Source Code 289 Dual Air Variable Capacitor
+
+Product Overview
+
+The 289-42 is a vintage dual-gang air variable tuning capacitor manufactured under RETMA manufacturer code 289 (Seeburg
+Corporation). Designed for broadcast radio, jukebox tuner chassis, and communications gear, it features a precision ball-bearing rear
+thrust bearing assembly and stamped // C trademark symbol.
+
+Technical Specifications
+
+Part Number
+
+Manufacturer Code
+
+Trademark Stamp
+
+Configuration
+
+Capacitance Range
+
+Bearing System
+
+Frame Construction
+
+289-42 (Stamped 289-42)
+
+RETMA / EIA Source Code 289 (Seeburg Corp, Chicago IL)
+
+Stamped // C (Capacitor Symbol) on front casting plate
+
+Dual-Gang (Two isolated stator sections with common rotor)
+
+Approx. 15 pF min to 365 pF max per section (standard superhet tracking)
+
+Precision rear ball-bearing race and front sleeve bushing
+
+Cast zinc/aluminum end frames with tie-plate rigidity
+
+Key Features & Construction
+
+(cid:127) Precision rear ball-bearing race provides smooth rotation and zero axial play
+(cid:127) Dual gang design supports matched RF amplifier and local oscillator tracking
+(cid:127) Cast end plates with stamped manufacturer part number 289-42
+(cid:127) Phenolic stator insulator strips with integrated solder lug terminals
+(cid:127) Sturdy construction resistant to mechanical warp and frequency drift
+
+Mechanical & Mounting Details
+
+(cid:127) Mounting: Four front-plate mounting holes and two base mounting points
+(cid:127) Rotor shaft: 1/4 inch diameter steel shaft with flat notch for knob set screw
+(cid:127) Frame dimensions: approx. 2.75 x 2.50 x 2.75 inches
+(cid:127) Terminal: Lateral solder lugs on stator support brackets
+
+

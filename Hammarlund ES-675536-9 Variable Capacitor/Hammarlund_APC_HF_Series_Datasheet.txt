@@ -1,0 +1,116 @@
+~--rf2;L-1~ HOT 
+P 
+
+"==l'-r--.--=oO/j  TINNED 
+
+SLOT 
+jz WIDE  x 
+A DEEP 
+TYPE "!>PC' 
+
+~AF 
+HEX  LOCKNUT 
+
+1Z-iF~ 
+
+32 
+
+"APC-C·  LOCK TYPE 
+
+~  J  ~.d 
+32--1  . 
+
+"APC-B"  SHAFT  TYPE 
+
+HRmmRRLUND  APC  PRICES 
+
+Capacitor 
+Type 
+APC-25 
+APC-50 
+APC-75 
+APC-lOO 
+APC-140 
+APC-25-B 
+APC-50-B 
+APC-75-B 
+
+Net 
+Price 
+$  1.20 
+1.35 
+1.45 
+1.60 
+1.80 
+1.30 
+1.40 
+1.50 
+
+Capacitor 
+Type 
+APC-lOO-B 
+APC-140-B 
+APC-25-C 
+APC-50-C 
+APC-75-C 
+APC-lOO-C 
+APC-140-C 
+
+Net 
+Price 
+$  1.70 
+1.90 
+1.85 
+2.00 
+2.10 
+2.25 
+2.45 
+
+3 
+
+THE  HRmmRRLUND  HF·  HFA  CAPACITOR  SERIES 
+
+The  HF 
+
+is  a  single  section  capacitor  employing  the  APC  rotor 
+and  stator  design.  An  extra  long  sleeve  bearing  and  positive  contact 
+nickel'plated  phosphor  bronze  wiper  make  this  unit  ideally  suited  to 
+high  frequency  applications.  The  HF  capacitors  may  be  mounted  by 
+the  5/16·32  threaded  bushing  or  the  mounting  bracket  in  grounded 
+isolated  rotor  applications,  the  HF  capacitors 
+rotor  applications.  In 
+two  1/ 8" 
+may  be  mounted  with  spacers  and  screws 
+diameter  holes 
+in  the  steatite  panel.  Spacers  and  screws  are  not 
+supplied. 
+
+through 
+
+the 
+
+HF·HFA 
+
+The  HF  capacitors  have  a  nominal  air  gap  of  0.015".  The  wide 
+spaced  HF·X  capacitors  have  a nominal  air  gap  of  0.045".  Capacitance 
+values  and  dimensions  are  shown  in  the  table. 
+
+The  HFA  capacitors  are  similar  to  the  HF  series  except  that  larger 
+rotor  and  stator  plates  are  used.  This  provides  means  to  secure  the 
+same  maximum  capacitance  values  with 
+larger  air  gaps.  Mounting 
+is  by  the  3/8·32  threaded  bushing,  by ~ base mounting  brackets  (supplied), 
+three  1/ 8" 
+or  by  spacers  and  screws  (not  supplied) 
+diameter  holes  in  the  steatite  panel.  Capacitance  values,  dimensions 
+and  air  gaps  for  the  HFA  series  are  shown  in  the  HFA  table  below. 
+
+through 
+
+the 
+
+~ 
+
+TYPE "HF" Ll----L--===-*'' 
+
+~"-iJ 

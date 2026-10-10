@@ -1,0 +1,8 @@
+name: "LM317 Voltage Regulator"
+manufacturer: "LM317"
+part_number: "Regulator"
+characteristics:
+  - "Voltage: .  The"
+  - "Current: 1.5A"
+datasheet: "LM317_datasheet.pdf"
+image: "header.jpg"

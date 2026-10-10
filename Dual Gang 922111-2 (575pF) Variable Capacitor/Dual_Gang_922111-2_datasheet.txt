@@ -1,0 +1,56 @@
+Dual-Gang 922111-2 (~575pF / Section) Variable
+Capacitor
+High-Capacity Dual-Section Air Variable Tuning Capacitor with Shaft Collar
+
+Product Overview
+
+The 922111-2 is a high-capacitance dual-gang air variable capacitor delivering approximately 575 pF per section. It is specifically
+designed for high-inductance tuning networks, low-frequency RF circuits, antenna matching units (transmatches), and AM/broadcast
+receiving gear requiring large capacitance swings.
+
+Technical Specifications
+
+Part Number
+
+922111-2
+
+Capacitance Rating
+
+~575 pF per section (Dual-Section / 2-Gang)
+
+Total Capacitance (Parallel)
+
+~1,150 pF combined maximum capacitance
+
+Shaft Attachment
+
+Chassis / Shielding
+
+Insulation
+
+Mounting
+
+Precision machined aluminum shaft collar with dual brass set screws
+
+Formed aluminum U-channel frame with underside inspection ports
+
+High-Q ceramic / phenolic stator support blocks
+
+Chassis mounting bosses with dual machine screws on bottom housing
+
+Key Features & Construction
+
+(cid:127) Extra high capacitance: 575 pF per section allows wide tuning ratios in low-frequency bands
+(cid:127) Heavy-duty machined aluminum shaft collar with dual set screws for rigid coupling
+(cid:127) Formed aluminum chassis shielding provides mechanical rigidity and dust deflection
+(cid:127) Dual independent stator terminals for push-pull, balanced, or parallel configurations
+(cid:127) High plate count multi-rotor assembly ensuring linear capacitance variation
+
+Mechanical & Mounting Details
+
+(cid:127) Shaft: Machined aluminum extension collar (1/2 inch OD, 1/4 inch bore) with dual set screws
+(cid:127) Frame dimensions: approx. 3.0 inches wide x 3.25 inches long x 2.75 inches high
+(cid:127) Bottom mounting: Threaded mounting bosses with machine screws
+(cid:127) Access ports: Two circular underside inspection holes for plate alignment inspection
+
+

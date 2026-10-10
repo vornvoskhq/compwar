@@ -1,0 +1,60 @@
+Hammarlund ES-675536-9 / APC Series Variable Air
+Trimmer
+Hammarlund Manufacturing Company, Inc. (New York, NY)
+
+Product Overview
+
+The Hammarlund ES-675536-9 is a precision air dielectric trimmer capacitor manufactured by Hammarlund in New York. Based on
+the venerable APC/HF series architecture, it utilizes a silicone-treated steatite ceramic base plate, nickel-plated brass stator and rotor
+plates, and a threaded panel mounting bushing with an extended rotor control shaft.
+
+Technical Specifications
+
+Part / Model Number
+
+ES-675536-9 (APC / HF Series Architectural Line)
+
+Manufacturer
+
+Capacitance Range
+
+Nominal Air Gap
+
+Voltage Breakdown
+
+Insulation
+
+Rotor Wiper
+
+Plates Material
+
+Hammarlund Manufacturing Company, New York, NY
+
+Approx. 3.5 pF min to 50 pF max (standard trimmer span)
+
+0.015 inches (0.38 mm)
+
+750 to 1,000 Volts Peak (Test Rating)
+
+Silicone-treated steatite ceramic base plate (low dielectric loss)
+
+Silver-plated phosphor bronze wiper contact
+
+Precision brass plates, solder-assembled and nickel plated
+
+Key Features & Construction
+
+(cid:127) Low-loss steatite ceramic substrate impervious to moisture and humidity
+(cid:127) Straight-line capacitance tuning profile across 180 degrees rotation
+(cid:127) Positive contact silver-plated phosphor bronze rotor wiper for stable grounding
+(cid:127) Integrated threaded bushing with hex mounting nut for single-hole panel installation
+(cid:127) Heavy-duty solder lug terminals with attached lead wire
+
+Mechanical & Mounting Details
+
+(cid:127) Mounting: 5/16-32 or 3/8-32 threaded mounting bushing with hex nut
+(cid:127) Shaft: 1/4 inch diameter slotted rotor shaft for knob or screwdriver adjustment
+(cid:127) Base dimensions: approx. 1.25 x 1.00 inches steatite plate
+(cid:127) Overall depth: approx. 1.75 inches behind panel
+
+

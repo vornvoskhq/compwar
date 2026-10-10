@@ -1,0 +1,60 @@
+Knight 1255 / RVC273 Dual-Gang Variable Capacitor
+Allied Radio Knight-Kit / Radio Condenser Co. (EIA Source Code 282)
+
+Product Overview
+
+The Knight 1255 (manufactured by Radio Condenser Company under EIA code 282) is a precision dual-gang air variable capacitor
+designed for broadcast AM, shortwave receivers, and communications equipment. It features an integrated large-diameter stamped
+metal drive wheel intended for dial cord vernier drive systems, providing smooth, high-precision frequency tuning across its 13 pF to
+405 pF capacitance span.
+
+Technical Specifications
+
+Part / Model Number
+
+Knight 1255 / RVC 273, 6241 1120
+
+Manufacturer Code
+
+Capacitance Range
+
+Sections / Gangs
+
+Dielectric
+
+Drive Mechanism
+
+Frame Material
+
+Shaft Type
+
+EIA Code 282 (Radio Condenser Company, Camden NJ)
+
+13 pF min to 405 pF max per main section
+
+Dual-Gang (AM / Shortwave Receiver Tuning)
+
+Air dielectric with high-Q ceramic/steatite insulation
+
+Large diameter integral dial pulley wheel for cord/vernier drive
+
+Heavy-gauge stamped cadmium-plated steel chassis with front flange
+
+Center rotor shaft with ball bearing support assembly
+
+Key Features & Construction
+
+(cid:127) Wide tuning range: 13 pF minimum to 405 pF maximum for multi-band RF tuning
+(cid:127) Large diameter vernier cord drive pulley for anti-backlash dial stringing
+(cid:127) Dual isolated stator sections with solder lug terminals
+(cid:127) Low RF loss steatite insulating spacers for optimal circuit Q factor
+(cid:127) Rear and front ground wiping contacts for low noise operation
+
+Mechanical & Mounting Details
+
+(cid:127) Panel / chassis mount via front plate threaded mounting holes
+(cid:127) Integral drive pulley diameter: approx. 2.75 inches with cable guide grooves
+(cid:127) Shaft diameter: 1/4 inch brass/steel central shaft
+(cid:127) Overall dimensions: approx. 3.25 x 3.0 x 3.0 inches (including pulley)
+
+

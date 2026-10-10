@@ -1,0 +1,214 @@
+1N5400, 1N5401, 1N5402, 1N5403, 1N5404, 1N5405, 1N5406, 1N5407, 1N5408
+www.vishay.com
+Vishay General Semiconductor
+
+General Purpose Plastic Rectifier
+
+FEATURES
+
+• Low forward voltage drop
+
+• Low leakage current
+
+• High forward surge capability
+
+• Solder dip 275 °C max. 10 s, per JESD 22-B106
+
+DO-201AD
+
+PRIMARY CHARACTERISTICS
+
+• Material  categorization: 
+
+compliance 
+www.vishay.com/doc?99912
+
+please 
+
+for  definitions  of 
+see 
+
+TYPICAL APPLICATIONS
+
+For use in general purpose rectification of power supplies, 
+inverters, converters, and freewheeling diodes application.
+
+3.0 A
+
+IF(AV)
+
+VRRM
+
+IFSM
+
+IR
+
+VF
+
+TJ max.
+
+Package
+
+Circuit configuration
+
+50 V, 100 V, 200 V, 300 V, 400 V, 
+500 V, 600 V, 800 V, 1000 V
+
+MECHANICAL DATA
+
+200 A
+
+5.0 μA
+
+1.2 V
+
+150 °C
+
+DO-201AD
+
+Single
+
+DO-201AD, 
+
+Case: 
+body 
+Molding  compound  meets  UL  94  V-0  flammability  rating 
+Base P/N-E3 - RoHS-compliant, commercial grade
+
+molded 
+
+epoxy 
+
+Terminals:  matte 
+J-STD-002  
+E3 suffix meets JESD 201 class 1A whisker test
+
+tin  plated 
+and  
+
+leads,  solderable  per 
+JESD 22-B102 
+
+Polarity: color band denotes cathode end
+
+MAXIMUM RATINGS (TA = 25 °C unless otherwise noted)
+PARAMETER 
+
+SYMBOL 1N5400 1N5401 1N5402 1N5403 1N5404 1N5405 1N5406 1N5407 1N5408 UNIT
+
+500
+
+350
+
+500
+
+600
+
+420
+
+600
+
+800
+
+1000
+
+560
+
+800
+
+700
+
+1000
+
+Maximum repetitive peak 
+reverse voltage
+
+Maximum RMS voltage
+
+Maximum DC blocking voltage
+
+Maximum average forward 
+rectified current 0.5" (12.5 mm) 
+lead length at TL = 105 °C
+Peak forward surge current 
+8.3 ms single half sine-wave 
+superimposed on rated load
+
+Maximum full load reverse 
+current, full cycle average 
+0.5" (12.5 mm) lead length 
+at TL = 105 °C
+
+Operating junction and 
+storage temperature range
+
+VRRM
+
+VRMS
+
+VDC
+
+IF(AV)
+
+IFSM
+
+IR(AV)
+
+50
+
+35
+
+50
+
+100
+
+70
+
+100
+
+200
+
+140
+
+200
+
+300
+
+210
+
+300
+
+400
+
+280
+
+400
+
+3.0
+
+200
+
+500
+
+TJ, TSTG
+
+-50 to +150
+
+V
+
+V
+
+V
+
+A
+
+A
+
+μA
+
+°C
+
+Revision: 19-Dec-2025
+
+1
+For technical questions within your region: DiodesAmericas@vishay.com, D

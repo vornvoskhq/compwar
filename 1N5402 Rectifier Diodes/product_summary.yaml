@@ -1,0 +1,8 @@
+name: "1N5402 Rectifier Diodes"
+manufacturer: "1N5402"
+part_number: "Diodes"
+characteristics:
+  - "Peak forward surge current: 8.3 ms"
+  - "Current: 0.5"
+datasheet: "1N5402_datasheet.pdf"
+image: "header.jpg"

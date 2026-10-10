@@ -1,0 +1,60 @@
+E.F. Johnson 153-210 (Type D) 3-Gang Variable
+Capacitor
+E.F. Johnson Company / Cardwell Johnson Capacitor Division - 153 Series
+
+Product Overview
+
+The E.F. Johnson 153-210 is a heavy-duty, commercial-grade Type D (153 series) 3-gang air variable capacitor. Designed for
+multi-stage RF amplifiers, multi-band receiver front-ends, and transmitter stages, it features 0.051 inch thick aluminum plates with
+rounded edges to prevent corona discharge, supported on massive 5/16 inch aluminum tie rods and steatite insulators.
+
+Technical Specifications
+
+Part Number
+
+Series
+
+Gangs / Sections
+
+Plates Specification
+
+Tie Rods
+
+Shaft
+
+Insulation
+
+153-210 (Stamped 153210)
+
+Type D - 153 Series Variable Air Capacitors
+
+Triple-Gang (3-Section ganged tuning)
+
+Heavy 0.051 inch aluminum plates with rounded edges for high breakdown voltage
+
+5/16 inch diameter aluminum tie rods for rigid frame assembly
+
+1/4 inch cadmium-plated steel shaft, extended for drive coupling
+
+High-frequency steatite ceramic stator insulation strips
+
+Contact Springs
+
+Laminated phosphor bronze wiper springs for smooth rotor grounding
+
+Key Features & Construction
+
+(cid:127) Three matched sections on a common rotor shaft for synchronized stage tuning
+(cid:127) Thick 0.051 inch aluminum plates with smoothed edges for high breakdown voltage
+(cid:127) Rugged 5/16 inch aluminum tie-rod frame preventing mechanical deflection and microphonics
+(cid:127) Rear bearing adjustment screw with locknut for zero axial shaft play
+(cid:127) Independent stator terminal solder lugs for each of the three gangs
+
+Mechanical & Mounting Details
+
+(cid:127) Frame dimensions: Width 4-1/4 inches, Height 4 inches
+(cid:127) Shaft center height: 2-5/32 inches from mounting base
+(cid:127) Mounting: Front/rear end frames tapped 8-32 (three holes) for panel or bracket mounting
+(cid:127) Rotor shaft: 1/4 inch diameter extended shaft suitable for vernier dials or flexible couplings
+
+

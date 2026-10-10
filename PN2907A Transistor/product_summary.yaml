@@ -1,0 +1,11 @@
+name: "PN2907A Transistor"
+manufacturer: "PN2907A"
+part_number: "Transistor"
+characteristics:
+  - "Spec unknown"
+  - "Spec unknown"
+  - "Spec unknown"
+  - "Spec unknown"
+  - "Spec unknown"
+datasheet: "PN2907A_datasheet.pdf"
+image: "IMG_20261009_152443 (2).jpg"

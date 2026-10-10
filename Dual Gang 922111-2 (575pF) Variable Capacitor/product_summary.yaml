@@ -1,0 +1,7 @@
+name: "Dual Gang 922111-2 (575pF) Variable Capacitor"
+manufacturer: "Dual"
+part_number: "Capacitor"
+characteristics:
+  - "Capacitance: 575 pF"
+datasheet: "Dual_Gang_922111-2_datasheet.pdf"
+image: "IMG_20261009_152443 (23).jpg"
