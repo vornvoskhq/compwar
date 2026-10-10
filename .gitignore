@@ -1,0 +1,9 @@
+# Generated/product archive
+*.7z
+
+# Root-level duplicate product images
+/*.jpg
+/*.JPG
+
+# Generated header images
+/_headers/
